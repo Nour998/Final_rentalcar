@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/page2">
+
+    <activity
+        android:id="@+id/page2"
+        android:name="com.exemple.final_rentalcar.Page2"
+        android:label="Page2" />
+    <fragment
+        android:id="@+id/profil"
+        android:name="com.exemple.final_rentalcar.profil"
+        android:label="fragment_profil"
+        tools:layout="@layout/fragment_profil" />
+    <fragment
+        android:id="@+id/feedback"
+        android:name="com.exemple.final_rentalcar.feedback"
+        android:label="fragment_feedback"
+        tools:layout="@layout/fragment_feedback" />
+</navigation>

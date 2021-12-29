@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car">
+        <item>BMW</item>
+        <item>BMW</item>
+        <item>VOLKSWAGEN</item>
+        <item>KIA</item>
+        <item>KIA</item>
+        <item>KIA</item>
+        <item>TESLA</item>
+        <item>BMW</item>
+        <item>VOLKSWAGEN</item>
+        <item>BMW</item>
+        <item>BMW</item>
+        <item>VOLKSWAGEN</item>
+        <item>KIA</item>
+        <item>KIA</item>
+        <item>KIA</item>
+        <item>TESLA</item>
+        <item>BMW</item>
+        <item>VOLKSWAGEN</item>
+
+    </string-array>
+</resources>
